@@ -1,1 +1,2 @@
 # Camp
+Hi Humans!
